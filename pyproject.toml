@@ -1,0 +1,10 @@
+[project]
+name = "seminar-bayesian-model-averaging"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipywidgets>=8.1.7",
+    "pymc>=5.25.1",
+]
