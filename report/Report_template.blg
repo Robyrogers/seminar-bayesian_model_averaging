@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Report_template.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+You're missing a field name---line 207 of file references.bib
+ :    year         = {2021}, 
+ :                           % Assuming a publication year based on the Zenodo DOI creation date (often around 2021)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 231 of file references.bib
+ :    doi    = {10.34740/kaggle/dsv/152960} 
+ :                                          % Kaggle DOI is often the most stable identifier
+I'm skipping whatever remains of this entry
+You're missing a field name---line 247 of file references.bib
+ :    pages     = {??}, 
+ :                      % Page numbers are often omitted for chapters unless known
+I'm skipping whatever remains of this entry
+Warning--empty publisher in BMCP2021
+Warning--empty publisher in pandas
+Warning--empty publisher in siri1956gross
+Warning--empty year in siri1956gross
+Warning--empty year in siri1956gross
+You've used 12 entries,
+            2773 wiz_defined-function locations,
+            676 strings with 6923 characters,
+and the built_in function-call counts, 6154 in all, are:
+= -- 523
+> -- 440
+< -- 7
++ -- 151
+- -- 138
+* -- 548
+:= -- 988
+add.period$ -- 48
+call.type$ -- 12
+change.case$ -- 78
+chr.to.int$ -- 11
+cite$ -- 29
+duplicate$ -- 245
+empty$ -- 441
+format.name$ -- 152
+if$ -- 1250
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 12
+newline$ -- 80
+num.names$ -- 48
+pop$ -- 160
+preamble$ -- 1
+purify$ -- 68
+quote$ -- 0
+skip$ -- 189
+stack$ -- 0
+substring$ -- 152
+swap$ -- 22
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 122
+warning$ -- 5
+while$ -- 47
+width$ -- 0
+write$ -- 182
+(There were 3 error messages)

@@ -1,0 +1,95 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Harris et~al.(2020{\natexlab{a}})Harris, Millman, van~der Walt,
+  Gommers, Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith,
+  et~al.]{matplotlib}
+Charles~R Harris, K~Jarrod Millman, St{\'e}fan~J van~der Walt, Ralf Gommers,
+  Pauli Virtanen, David Cournapeau, Eric Wieser, Julian Taylor, Sebastian Berg,
+  Nathaniel~J Smith, et~al.
+\newblock Array programming with numpy.
+\newblock \emph{Nature}, 585:\penalty0 357--362, 2020{\natexlab{a}}.
+\newblock \doi{10.1038/s41586-020-2649-2}.
+
+\bibitem[Harris et~al.(2020{\natexlab{b}})Harris, Millman, van~der Walt,
+  Gommers, Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith, et~al.]{numpy}
+Charles~R Harris, K~Jarrod Millman, St{\'e}fan~J van~der Walt, Ralf Gommers,
+  Pauli Virtanen, David Cournapeau, Eric Wieser, Julian Taylor, Sebastian Berg,
+  Nathaniel~J Smith, et~al.
+\newblock Array programming with numpy.
+\newblock \emph{Nature}, 585\penalty0 (7825):\penalty0 357--362,
+  2020{\natexlab{b}}.
+\newblock URL \url{https://www.nature.com/articles/s41586-020-2649-2}.
+
+\bibitem[Hoeting et~al.(1999)Hoeting, Madigan, Raftery, and
+  Volinsky]{BMA-Hoeting}
+Jennifer~A. Hoeting, David Madigan, Adrian~E. Raftery, and Chris~T. Volinsky.
+\newblock Bayesian model averaging: A tutorial.
+\newblock \emph{Statistical Science}, 14\penalty0 (4):\penalty0 382--401, 1999.
+\newblock ISSN 08834237.
+\newblock URL \url{http://www.jstor.org/stable/2676803}.
+
+\bibitem[Hoyer and Hamman(2017)]{xarray}
+Steven Hoyer and Joseph~J Hamman.
+\newblock xarray: N-d labeled arrays and datasets in python.
+\newblock \emph{Journal of Open Research Software}, 5\penalty0 (1), 2017.
+\newblock \doi{10.5334/jors.148}.
+
+\bibitem[Kumar et~al.(2019)Kumar, Carroll, Hartikainen, and Martin]{arviz}
+Ravin Kumar, Christopher Carroll, Ari Hartikainen, and Osvaldo Martin.
+\newblock Arviz a unified library for exploratory analysis of bayesian models
+  in python.
+\newblock \emph{Journal of Open Source Software}, 4\penalty0 (33):\penalty0
+  1143, 2019.
+\newblock \doi{10.21105/joss.01143}.
+
+\bibitem[Martin et~al.(2021)Martin, Kumar, and Lao]{BMCP2021}
+Osvaldo~A. Martin, Ravin Kumar, and Junpeng Lao.
+\newblock \emph{{Bayesian Modeling and Computation in Python}}.
+\newblock {Boca Raton}, December 2021.
+\newblock ISBN 978-0-367-89436-8.
+
+\bibitem[Martín(2021)]{martin2021model}
+Osvaldo Martín.
+\newblock Model averaging.
+\newblock In: PyMC Examples, 2021.
+
+\bibitem[McKinney(2010)]{pandas}
+Wes McKinney.
+\newblock \emph{Data Structures for Statistical Computing in Python}.
+\newblock 2010.
+\newblock URL
+  \url{https://conference.scipy.org/proceedings/scipy2010/mckinney.html}.
+
+\bibitem[Salvatier et~al.(2016)Salvatier, Wiecki, and Fonnesbeck]{pymc}
+John Salvatier, Thomas~V Wiecki, and Christopher Fonnesbeck.
+\newblock Probabilistic programming in python using pymc3.
+\newblock \emph{PeerJ Computer Science}, 2:\penalty0 e55, 2016.
+\newblock \doi{10.7717/peerj-cs.55}.
+
+\bibitem[Siri()]{siri1956gross}
+W.~E. Siri.
+\newblock Gross composition of the body.
+\newblock In \emph{Advances in Biological and Medical Physics}, volume~IV,
+  page~??
+
+\bibitem[Soriano(2017)]{soriano2017body}
+Fede Soriano.
+\newblock Body fat prediction dataset, 2017.
+\newblock URL
+  \url{https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset}.
+\newblock Kaggle Dataset.
+
+\bibitem[Yao et~al.(2018)Yao, Vehtari, Simpson, and Gelman]{yao2018using}
+Yuling Yao, Aki Vehtari, Daniel Simpson, and Andrew Gelman.
+\newblock Using stacking to average bayesian predictive distributions (with
+  discussion).
+\newblock \emph{Bayesian Anal.}, 13:\penalty0 917--1007, September 2018.
+\newblock \doi{10.1214/17-BA1091}.
+\newblock URL \url{https://doi.org/10.1214/17-BA1091}.
+
+\end{thebibliography}
